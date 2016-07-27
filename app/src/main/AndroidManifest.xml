@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="my.tomer.edu.firedatabaseloggin2">
+    package="my.tomer.edu.firedatabaseloggin3">
 
     <application
         android:allowBackup="true"

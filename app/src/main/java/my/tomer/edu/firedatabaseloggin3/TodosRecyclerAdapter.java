@@ -9,7 +9,6 @@ import com.firebase.ui.database.FirebaseRecyclerAdapter;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 
-import my.tomer.edu.firedatabaseloggin2.R;
 import my.tomer.edu.firedatabaseloggin3.models.Todo;
 
 /**

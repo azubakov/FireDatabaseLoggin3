@@ -7,7 +7,7 @@ import android.widget.TextView;
 
 import com.google.firebase.database.DatabaseReference;
 
-import my.tomer.edu.firedatabaseloggin2.R;
+import my.tomer.edu.firedatabaseloggin3.R;
 import my.tomer.edu.firedatabaseloggin3.models.ShoppingListItem;
 import my.tomer.edu.firedatabaseloggin3.utils.FirebaseRecyclerAdapter;
 
