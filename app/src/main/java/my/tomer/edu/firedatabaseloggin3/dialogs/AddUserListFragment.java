@@ -15,8 +15,11 @@ import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 
-import tomer.edu.firedemo.R;
-import tomer.edu.firedemo.models.ShoppingList;
+import my.tomer.edu.firedatabaseloggin2.R;
+import my.tomer.edu.firedatabaseloggin3.models.ShoppingList;
+
+/*import tomer.edu.firedemo.R;
+import tomer.edu.firedemo.models.ShoppingList;*/
 
 
 /**

@@ -12,12 +12,29 @@
             android:name="my.tomer.edu.firedatabaseloggin3.MainActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">
+         <!--   <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>-->
+        </activity>
+        <activity android:name="my.tomer.edu.firedatabaseloggin3.activities.LoginActivity" />
+        <activity
+            android:name="my.tomer.edu.firedatabaseloggin3.activities.UserListsActivity"
+            android:label="UserListActivity"
+            android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="my.tomer.edu.firedatabaseloggin3.activities.ShareListWithUsersActivity"
+            android:label="ShareListWithUsersActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="my.tomer.edu.firedatabaseloggin3.activities.ShoppingListItemsActivity"></activity>
+
 
     </application>
 
